@@ -1,1 +1,1 @@
-JSON de produtos
+Apenas um JSON de produtos
