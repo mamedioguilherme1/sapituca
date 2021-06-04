@@ -5,26 +5,26 @@
         "id": 0,
         "products": [
           {
-            "name": 'Conjunto linha luxo Persex Preto',
-            "image": 'https"://instagram.fudi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p640x640/189052362_149801457126118_3704499188070838978_n.jpg?tp=1&_nc_ht=instagram.fudi1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2JzXOXMA8SUAX_9En85&edm=AP_V10EBAAAA&ccb=7-4&oh=79b81a47f59f656f2449d226e9f58adb&oe=60BA48B1&_nc_sid=4f375e',
+            "name": "Conjunto linha luxo Persex Preto",
+            "image": "https//instagram.fudi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p640x640/189052362_149801457126118_3704499188070838978_n.jpg?tp=1&_nc_ht=instagram.fudi1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2JzXOXMA8SUAX_9En85&edm=AP_V10EBAAAA&ccb=7-4&oh=79b81a47f59f656f2449d226e9f58adb&oe=60BA48B1&_nc_sid=4f375e",
             "salePrice": 69.90,
             "oldPrice": 75.00,
             "discount": 10,
             "configurations": [
-              'M', 'P'
+              "M", "P"
             ],
-            "link": "https"://www.mercadolivre.com.br/"
+            "link": "https//www.mercadolivre.com.br/"
           },
           {
-            "name": 'Conjunto linha luxo Persex Preto',
-            "image": 'https"://instagram.fudi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p640x640/189052362_149801457126118_3704499188070838978_n.jpg?tp=1&_nc_ht=instagram.fudi1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2JzXOXMA8SUAX_9En85&edm=AP_V10EBAAAA&ccb=7-4&oh=79b81a47f59f656f2449d226e9f58adb&oe=60BA48B1&_nc_sid=4f375e',
+            "name": "Conjunto linha luxo Persex Preto",
+            "image": "https//instagram.fudi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p640x640/189052362_149801457126118_3704499188070838978_n.jpg?tp=1&_nc_ht=instagram.fudi1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2JzXOXMA8SUAX_9En85&edm=AP_V10EBAAAA&ccb=7-4&oh=79b81a47f59f656f2449d226e9f58adb&oe=60BA48B1&_nc_sid=4f375e",
             "salePrice": 69.90,
             "oldPrice": 75.00,
             "discount": 10,
             "configurations": [
-              'M'
+              "M"
             ],
-            "link": "https"://www.mercadolivre.com.br/"
+            "link": "https//www.mercadolivre.com.br/"
           }
         ]
       },
@@ -34,13 +34,13 @@
         "id": 1,
         "products": [
           {
-            "name": 'Conjunto linha luxo Persex Preto',
-            "image": 'https"://instagram.fudi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p640x640/189052362_149801457126118_3704499188070838978_n.jpg?tp=1&_nc_ht=instagram.fudi1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2JzXOXMA8SUAX_9En85&edm=AP_V10EBAAAA&ccb=7-4&oh=79b81a47f59f656f2449d226e9f58adb&oe=60BA48B1&_nc_sid=4f375e',
+            "name": "Conjunto linha luxo Persex Preto",
+            "image": "https//instagram.fudi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p640x640/189052362_149801457126118_3704499188070838978_n.jpg?tp=1&_nc_ht=instagram.fudi1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2JzXOXMA8SUAX_9En85&edm=AP_V10EBAAAA&ccb=7-4&oh=79b81a47f59f656f2449d226e9f58adb&oe=60BA48B1&_nc_sid=4f375e",
             "salePrice": 69.90,
             "oldPrice": 75.00,
             "discount": 10,
             "configurations": [
-              'M'
+              "M"
             ],
             "link": "https://www.mercadolivre.com.br/"
           }
