@@ -6,7 +6,7 @@
         "products": [
           {
             "name": "Conjunto linha luxo Persex Preto",
-            "image": "https//instagram.fudi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p640x640/189052362_149801457126118_3704499188070838978_n.jpg?tp=1&_nc_ht=instagram.fudi1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2JzXOXMA8SUAX_9En85&edm=AP_V10EBAAAA&ccb=7-4&oh=79b81a47f59f656f2449d226e9f58adb&oe=60BA48B1&_nc_sid=4f375e",
+            "images": [ "https://github.com/mamedioguilherme1/sapituca/blob/main/imagens/produto-exemplo.png?raw=true" ],
             "salePrice": 69.90,
             "discount": 10,
             "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
@@ -17,7 +17,7 @@
           },
           {
             "name": "Conjunto linha luxo Persex Preto",
-            "image": "https//instagram.fudi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p640x640/189052362_149801457126118_3704499188070838978_n.jpg?tp=1&_nc_ht=instagram.fudi1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2JzXOXMA8SUAX_9En85&edm=AP_V10EBAAAA&ccb=7-4&oh=79b81a47f59f656f2449d226e9f58adb&oe=60BA48B1&_nc_sid=4f375e",
+            "images": [ "https://github.com/mamedioguilherme1/sapituca/blob/main/imagens/produto-exemplo.png?raw=true" ],
             "salePrice": 69.90,
             "discount": 10,
             "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
@@ -28,7 +28,7 @@
           },
           {
             "name": "Conjunto linha luxo Persex Preto",
-            "image": "https//instagram.fudi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p640x640/189052362_149801457126118_3704499188070838978_n.jpg?tp=1&_nc_ht=instagram.fudi1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2JzXOXMA8SUAX_9En85&edm=AP_V10EBAAAA&ccb=7-4&oh=79b81a47f59f656f2449d226e9f58adb&oe=60BA48B1&_nc_sid=4f375e",
+            "images": [ "https://github.com/mamedioguilherme1/sapituca/blob/main/imagens/produto-exemplo.png?raw=true" ],
             "salePrice": 69.90,
             "discount": 10,
             "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
@@ -39,7 +39,7 @@
           },
           {
             "name": "Conjunto linha luxo Persex Preto",
-            "image": "https//instagram.fudi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p640x640/189052362_149801457126118_3704499188070838978_n.jpg?tp=1&_nc_ht=instagram.fudi1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2JzXOXMA8SUAX_9En85&edm=AP_V10EBAAAA&ccb=7-4&oh=79b81a47f59f656f2449d226e9f58adb&oe=60BA48B1&_nc_sid=4f375e",
+            "images": [ "https://github.com/mamedioguilherme1/sapituca/blob/main/imagens/produto-exemplo.png?raw=true" ],
             "salePrice": 69.90,
             "discount": 0,
             "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
@@ -57,7 +57,7 @@
         "products": [
           {
             "name": "Conjunto linha luxo Persex Preto",
-            "image": "https//instagram.fudi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p640x640/189052362_149801457126118_3704499188070838978_n.jpg?tp=1&_nc_ht=instagram.fudi1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2JzXOXMA8SUAX_9En85&edm=AP_V10EBAAAA&ccb=7-4&oh=79b81a47f59f656f2449d226e9f58adb&oe=60BA48B1&_nc_sid=4f375e",
+            "images": [ "https://github.com/mamedioguilherme1/sapituca/blob/main/imagens/produto-exemplo.png?raw=true" ],
             "salePrice": 69.90,
             "discount": 10,
             "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
