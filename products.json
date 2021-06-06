@@ -6,7 +6,7 @@
         "products": [
           {
             "name": "Conjunto linha luxo Persex Preto",
-            "images": [ "https://github.com/mamedioguilherme1/sapituca/blob/main/imagens/produto-exemplo.png?raw=true" ],
+            "images": [ "produto-exemplo" ],
             "salePrice": 69.90,
             "discount": 10,
             "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
@@ -17,7 +17,7 @@
           },
           {
             "name": "Conjunto linha luxo Persex Preto",
-            "images": [ "https://github.com/mamedioguilherme1/sapituca/blob/main/imagens/produto-exemplo.png?raw=true" ],
+            "images": [ "produto-exemplo" ],
             "salePrice": 69.90,
             "discount": 10,
             "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
@@ -28,7 +28,7 @@
           },
           {
             "name": "Conjunto linha luxo Persex Preto",
-            "images": [ "https://github.com/mamedioguilherme1/sapituca/blob/main/imagens/produto-exemplo.png?raw=true" ],
+            "images": [ "produto-exemplo" ],
             "salePrice": 69.90,
             "discount": 10,
             "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
@@ -39,7 +39,7 @@
           },
           {
             "name": "Conjunto linha luxo Persex Preto",
-            "images": [ "https://github.com/mamedioguilherme1/sapituca/blob/main/imagens/produto-exemplo.png?raw=true" ],
+            "images": [ "produto-exemplo" ],
             "salePrice": 69.90,
             "discount": 0,
             "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
@@ -57,7 +57,7 @@
         "products": [
           {
             "name": "Conjunto linha luxo Persex Preto",
-            "images": [ "https://github.com/mamedioguilherme1/sapituca/blob/main/imagens/produto-exemplo.png?raw=true" ],
+            "images": [ "produto-exemplo" ],
             "salePrice": 69.90,
             "discount": 10,
             "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
