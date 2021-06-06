@@ -5,6 +5,7 @@
         "id": 0,
         "products": [
           {
+            "id": 0,
             "name": "Conjunto linha luxo Persex Preto",
             "images": [ "produto-exemplo" ],
             "salePrice": 69.90,
@@ -16,6 +17,7 @@
             "link": "https//www.mercadolivre.com.br/"
           },
           {
+            "id": 1,
             "name": "Conjunto linha luxo Persex Preto",
             "images": [ "produto-exemplo" ],
             "salePrice": 69.90,
@@ -27,6 +29,7 @@
             "link": "https//www.mercadolivre.com.br/"
           },
           {
+            "id": 2,
             "name": "Conjunto linha luxo Persex Preto",
             "images": [ "produto-exemplo" ],
             "salePrice": 69.90,
@@ -38,6 +41,7 @@
             "link": "https//www.mercadolivre.com.br/"
           },
           {
+            "id": 3,
             "name": "Conjunto linha luxo Persex Preto",
             "images": [ "produto-exemplo" ],
             "salePrice": 69.90,
@@ -56,6 +60,7 @@
         "id": 1,
         "products": [
           {
+            "id": 4,
             "name": "Conjunto linha luxo Persex Preto",
             "images": [ "produto-exemplo" ],
             "salePrice": 69.90,
