@@ -3,10 +3,10 @@
    "categories":[
       {
          "name":"Lingeries",
-         "id":0,
+         "id":"7b1f0fcc-f2eb-2457-20d7-34d123a075e0",
          "products":[
             {
-               "id":0,
+               "id":"7b1f0fcc-f2eb-2457-20d7-34d123a075e1",
                "name":"Conjunto sem bojo preto",
                "images":[
                   "conjunto-renda-sem-bojo-preto-1",
@@ -23,7 +23,7 @@
                "link":"vazio"
             },
             {
-               "id":1,
+               "id":"7b1f0fcc-f2eb-2457-20d7-34d123a075e2",
                "name":"Conjunto tule e renda",
                "images":[
                   "conjunto-tule-e-renda-1",
@@ -43,10 +43,10 @@
       },
       {
          "name":"Body",
-         "id":1,
+         "id":"7b1f0fcc-f2eb-2457-20d7-34d123a075e3",
          "products":[
             {
-               "id":2,
+               "id":"7b1f0fcc-f2eb-2457-20d7-34d123a075e4",
                "name":"Body renda sem bojo com decote preto",
                "images":[
                   "body-renda-sem-bojo-preto-1",
@@ -63,7 +63,7 @@
                "link":"vazio"
             },
             {
-               "id":3,
+               "id":"7b1f0fcc-f2eb-2457-20d7-34d123a075e5",
                "name":"Body renda sem bojo com decote azul",
                "images":[
                   "body-renda-sem-bojo-azul-1",
